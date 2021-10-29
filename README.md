@@ -1,5 +1,5 @@
 Hi, I’m @KohHuiLyn
-I'm a student from Singapore Polytechnique!
+I'm a student from Singapore Polytechnic!
 This is a compilation of all my projects/work in school
 Sorry if it's not very good, I'm still learning
 
