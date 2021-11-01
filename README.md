@@ -1,7 +1,6 @@
 Hi, I’m @KohHuiLyn
 I'm a student from Singapore Polytechnic!
-This is a compilation of all my projects/work in school
-Sorry if it's not very good, I'm still learning
+This is a compilation of all my projects/work in school!!
 
 <!---
 KohHuiLyn/KohHuiLyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
